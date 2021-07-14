@@ -1,4 +1,5 @@
 window.onload = () => {
+    alert("enjoy")
     const cnv = document.getElementById("canvas");
     const ctx = cnv.getContext("2d");
     cnv.height = window.innerHeight;
